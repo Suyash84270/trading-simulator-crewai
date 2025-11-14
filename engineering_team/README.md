@@ -144,9 +144,10 @@ python output/app.py
 
 ## Screenshots / Demo
 
-> Replace with your actual images:
+## Screenshots / Demo
 
-![App Screenshot](assets/screenshot.png)
+<img width="1217" height="815" alt="App Screenshot" src="https://github.com/user-attachments/assets/924ef9fa-15a4-44b2-9009-8fe03e0ac933" />
+
 
 
 
